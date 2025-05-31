@@ -6,7 +6,7 @@
     <!-- 运行move_base节点 -->
     <include file="$(find nav_demo)/launch/move_base.launch" />
     <!-- 运行rviz -->
-    <node pkg="rviz" type="rviz" name="rviz" args="-d $(find nav_demo)/config/slam.rviz" />
+    <node pkg="rviz" type="rviz" name="rviz" args="-d $(find nav_demo)/config/daohang.rviz" />
     <!-- <node pkg="rviz" type="rviz" name="rviz"  /> -->
 
 </launch>
