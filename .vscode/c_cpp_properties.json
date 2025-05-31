@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/noetic/include/**",
+        "/home/petrichor/catkin_ws/devel/include/**",
+        "/home/petrichor/catkin_ws/src/ROS-Academy-for-Beginners-noetic/dependlib/hector_slam/hector_geotiff/include/**",
+        "/home/petrichor/catkin_ws/src/ROS-Academy-for-Beginners-noetic/dependlib/hector_slam/hector_map_tools/include/**",
+        "/home/petrichor/catkin_ws/src/ROS-Academy-for-Beginners-noetic/dependlib/hector_slam/hector_mapping/include/**",
+        "/home/petrichor/catkin_ws/src/ROS-Academy-for-Beginners-noetic/dependlib/hector_slam/hector_marker_drawing/include/**",
+        "/home/petrichor/catkin_ws/src/ROS-Academy-for-Beginners-noetic/dependlib/openslam_gmapping/include/**",
+        "/home/petrichor/catkin_ws/src/ROS-Academy-for-Beginners-noetic/yocs_cmd_vel_mux/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

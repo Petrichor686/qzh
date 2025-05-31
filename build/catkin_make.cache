@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/petrichor/qzh/devel -DCMAKE_INSTALL_PREFIX=/home/petrichor/qzh/install -G Unix Makefiles
